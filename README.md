@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vipinwipen
-- 👀 I’m interested in java,block chain,data,r.
+- 👀 I’m interested in java,data,r.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
