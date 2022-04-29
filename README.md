@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vipinwipen
-- 👀 I’m interested in java,data,r.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in java,python,r.
+- 🌱 I’m currently learning debugging
+
 
 <!---
 vipinwipen/vipinwipen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
